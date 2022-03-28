@@ -26,9 +26,7 @@ namespace Add_Task_2
                 int temp;
                 int counter = 0;
 
-                for (int i = 0; i < array.Length; i++) array[i] = 0;
-                
-                while (counter<number)
+                 while (counter<number)
                 {
                     temp = rnd.Next(0, (number*number));
                     if (array[temp] != 1)
