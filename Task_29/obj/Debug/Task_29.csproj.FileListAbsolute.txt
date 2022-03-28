@@ -1,0 +1,8 @@
+C:\_GB\01. Программирование\C#\HomeWork_4\Task_29\obj\Debug\Task_29.csproj.AssemblyReference.cache
+C:\_GB\01. Программирование\C#\HomeWork_4\Task_29\obj\Debug\Task_29.csproj.SuggestedBindingRedirects.cache
+C:\_GB\01. Программирование\C#\HomeWork_4\Task_29\obj\Debug\Task_29.csproj.CoreCompileInputs.cache
+C:\_GB\01. Программирование\C#\HomeWork_4\Task_29\bin\Debug\Task_29.exe.config
+C:\_GB\01. Программирование\C#\HomeWork_4\Task_29\bin\Debug\Task_29.exe
+C:\_GB\01. Программирование\C#\HomeWork_4\Task_29\bin\Debug\Task_29.pdb
+C:\_GB\01. Программирование\C#\HomeWork_4\Task_29\obj\Debug\Task_29.exe
+C:\_GB\01. Программирование\C#\HomeWork_4\Task_29\obj\Debug\Task_29.pdb

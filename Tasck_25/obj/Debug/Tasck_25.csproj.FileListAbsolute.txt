@@ -1,0 +1,8 @@
+C:\_GB\01. Программирование\C#\HomeWork_4\Tasck_25\obj\Debug\Tasck_25.csproj.AssemblyReference.cache
+C:\_GB\01. Программирование\C#\HomeWork_4\Tasck_25\obj\Debug\Tasck_25.csproj.SuggestedBindingRedirects.cache
+C:\_GB\01. Программирование\C#\HomeWork_4\Tasck_25\obj\Debug\Tasck_25.csproj.CoreCompileInputs.cache
+C:\_GB\01. Программирование\C#\HomeWork_4\Tasck_25\bin\Debug\Tasck_25.exe.config
+C:\_GB\01. Программирование\C#\HomeWork_4\Tasck_25\bin\Debug\Tasck_25.exe
+C:\_GB\01. Программирование\C#\HomeWork_4\Tasck_25\bin\Debug\Tasck_25.pdb
+C:\_GB\01. Программирование\C#\HomeWork_4\Tasck_25\obj\Debug\Tasck_25.exe
+C:\_GB\01. Программирование\C#\HomeWork_4\Tasck_25\obj\Debug\Tasck_25.pdb
